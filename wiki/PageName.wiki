@@ -6,8 +6,4 @@ Overview of using UIMA from Python and Python analysis engines in UIMA.
 
 
 = Details =
-
 TBA
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
