@@ -1,0 +1,3 @@
+The goal of this project is to be able to "import uima" in python, and create/use the related analysis engines, pipelines, annotators, etc. Additionally, this module should create an efficient way to use Python classes as UIMA objects within a UIMAj environment.
+
+NLTK code could be used in UIMA adaptors, and developers could rapidly prototype annotators in Python even if the final projects will be java class files.
